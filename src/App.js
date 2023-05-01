@@ -84,7 +84,7 @@ function App() {
           onChange={handleInputChange}
           onKeyDown={handleKeyDown}
         />
-        <button onClick={handleAddTodo}><i className='fas fa-plus'></i></button>
+        <i onClick={handleAddTodo} className='fas fa-plus'></i>
       </div>
 
       <div className='todos'>
@@ -93,18 +93,18 @@ function App() {
             {editMode && editTodoId === todo.id ?
               <>
                 <input type='text' value={editTodoText} onChange={handleEditInputChange} />
-                <button onClick={handleSaveEdit}><i className='fas fa-check'></i></button>
-                <button onClick={handleCancelEdit}><i className='fas fa-times'></i></button>
+                <i onClick={handleSaveEdit} className='fas fa-check'></i>
+                <i onClick={handleCancelEdit} className='fas fa-times'></i>
               </>
-              :
+               :
               <>
                 <div className='left'>
                   <input type='checkbox' checked={todo.completed} onChange={() => handleToggleComplete(todo.id)} />
                   <p>{todo.text}</p>
                 </div>
                 <div className='right'>
-                  <button onClick={() => handleEdit(todo.id)}><i className='fas fa-pen'></i></button>
-                  <button onClick={() => handleDelete(todo.id)}><i className='fas fa-trash'></i></button>
+                  <i onClick={() => handleEdit(todo.id)} className='fas fa-pen'></i>
+                   <i onClick={() => handleDelete(todo.id)} className='fas fa-trash'></i>
                 </div>
               </>
             }
