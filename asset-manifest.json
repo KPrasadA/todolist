@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ef74d1b3.css",
-    "main.js": "/react-gh-pages/static/js/main.da7a88f1.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/react-gh-pages/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ef74d1b3.css.map": "/react-gh-pages/static/css/main.ef74d1b3.css.map",
-    "main.da7a88f1.js.map": "/react-gh-pages/static/js/main.da7a88f1.js.map"
+    "main.css": "/todolist/static/css/main.0c203a80.css",
+    "main.js": "/todolist/static/js/main.da7a88f1.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/todolist/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/todolist/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/todolist/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/todolist/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/todolist/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/todolist/index.html",
+    "main.0c203a80.css.map": "/todolist/static/css/main.0c203a80.css.map",
+    "main.da7a88f1.js.map": "/todolist/static/js/main.da7a88f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef74d1b3.css",
+    "static/css/main.0c203a80.css",
     "static/js/main.da7a88f1.js"
   ]
 }
